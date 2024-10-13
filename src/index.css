@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .wrapper-container {
+        @apply max-w-5xl mx-auto px-2
+    }
+}
+/* Animation for welcome text */
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  @keyframes float {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  .animate-float-left {
+    animation: float 4s ease-in-out infinite;
+    float: left;
+  }
+  
+  .animate-float-right {
+    animation: float 4s ease-in-out infinite;
+    float: right;
+  }
+  
