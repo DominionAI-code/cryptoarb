@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cryptoarb/static/css/main.f9e849d0.css",
-    "main.js": "/cryptoarb/static/js/main.0a9c0447.js",
+    "main.css": "/cryptoarb/static/css/main.ca7820dd.css",
+    "main.js": "/cryptoarb/static/js/main.1f6830cc.js",
     "static/media/BitCoin1.jpg": "/cryptoarb/static/media/BitCoin1.db406296434bb5a1c561.jpg",
     "index.html": "/cryptoarb/index.html",
-    "main.f9e849d0.css.map": "/cryptoarb/static/css/main.f9e849d0.css.map",
-    "main.0a9c0447.js.map": "/cryptoarb/static/js/main.0a9c0447.js.map"
+    "main.ca7820dd.css.map": "/cryptoarb/static/css/main.ca7820dd.css.map",
+    "main.1f6830cc.js.map": "/cryptoarb/static/js/main.1f6830cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9e849d0.css",
-    "static/js/main.0a9c0447.js"
+    "static/css/main.ca7820dd.css",
+    "static/js/main.1f6830cc.js"
   ]
 }
